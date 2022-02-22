@@ -23,7 +23,7 @@ while True:
         middleFingerY = []
         ringFingerY = []
         pinkyX = []
-        pinkyY = []
+        # pinkyY = []
 
 
         hand = 'None'
