@@ -15,7 +15,7 @@ cTime = 0
 
 while True:
     ret, img = cap.read()
-
+    # 15616156
     if ret:
         thumbX = []
         thumbY = []
